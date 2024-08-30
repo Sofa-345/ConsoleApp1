@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     internal class Sofia
     {
+        public void print()
+        {
+            Console.WriteLine("Sofia");
+        }
     }
 }
